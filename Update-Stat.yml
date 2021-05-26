@@ -12,6 +12,12 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: mrpawan-gupta/waka-readme@master
+      - uses: mrpawan_gupta/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.587e9148-cc67-484c-855f-6066642dd50a}}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          
+          
+          
+          
