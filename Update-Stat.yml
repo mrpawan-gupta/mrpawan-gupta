@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: mrpawan-gupta/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.121524ae-4569-48ea-8d22-fa4f386a0605}}
+          WAKATIME_API_KEY: ${{ secrets.587e9148-cc67-484c-855f-6066642dd50a}}
