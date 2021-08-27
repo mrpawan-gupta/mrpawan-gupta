@@ -68,13 +68,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 
 <!--END_SECTION:waka-->
 
-🚧 **My To-Do List stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">The world is a Horrible Place to live.<br> So Accept how it is!😌<br>It&#39;s not about helping anyone make their Lives Better.<br>You will need to work hard all by Yourself<br> to make your life Joyful😇😇<a href="https://twitter.com/hashtag/motivation?src=hash&amp;ref_src=twsrc%5Etfw">#motivation</a> <a href="https://twitter.com/hashtag/inspiration?src=hash&amp;ref_src=twsrc%5Etfw">#inspiration</a> <a href="https://twitter.com/hashtag/life?src=hash&amp;ref_src=twsrc%5Etfw">#life</a> <a href="https://twitter.com/hashtag/MeAndMyself?src=hash&amp;ref_src=twsrc%5Etfw">#MeAndMyself</a> <a href="https://twitter.com/hashtag/thought?src=hash&amp;ref_src=twsrc%5Etfw">#thought</a></p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1425150380283813896?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>>
 
 <hr>
   <details>
