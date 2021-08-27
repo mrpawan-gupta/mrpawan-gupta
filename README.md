@@ -68,7 +68,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 
 <!--END_SECTION:waka-->
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">The world is a Horrible Place to live.<br> So Accept how it is!😌<br>It&#39;s not about helping anyone make their Lives Better.<br>You will need to work hard all by Yourself<br> to make your life Joyful😇😇</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1425150380283813896?ref_src=twsrc%5Etfw">August 10, 2021</a></blockquote> 
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw">July 29, 2021</a></blockquote> 
 
 <hr>
   <details>
