@@ -87,7 +87,10 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
   </p>
- 
+  </detail>
+  </hr>
+ <hr>
+  <details>
   <details>
   <summary>📈 Languages Used by me :-</summary>
   <p align="center"> 
