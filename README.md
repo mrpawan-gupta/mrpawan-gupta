@@ -65,12 +65,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 
 📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
-```text
-JSX          7 hrs 57 mins   ████████████████░░░░░░░░░   63.51 % 
-JavaScript   3 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-HTML         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-```
+
 <!--END_SECTION:waka-->
 
 🚧 **My To-Do List stats:**
