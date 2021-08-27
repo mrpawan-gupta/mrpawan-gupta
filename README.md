@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hii, I'm [Pawan Gupta](https://abhishknads.me/), a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hii, I'm [Pawan Gupta](https://abhishknads.me/)📫, a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's.
 
@@ -54,8 +54,10 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 
-📊 **this week i spent my time on:**
+
+📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
 ```text
 JSX          7 hrs 57 mins   ████████████████░░░░░░░░░   63.51 % 
@@ -65,7 +67,7 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **My To-Do List stats:**
 <!-- TODO-IST:START -->
 🏆  7,936 Karma Points           
 🌸  Completed 0 tasks today           
