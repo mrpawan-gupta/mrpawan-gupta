@@ -87,12 +87,9 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
   <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
   </p>
-  </detail>
-  </hr>
-
-<hr>
+ 
   <details>
-  <summary>📈 My Github Stats..</summary>
+  <summary>📈 Languages Used by me :-</summary>
   <p align="center"> 
     <figure><embed src="https://wakatime.com/share/@mrpawan_gupta/a11a97b0-2846-4eee-8373-93b375ef690c.svg"></embed></figure>
   </p>
