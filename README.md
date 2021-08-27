@@ -90,6 +90,15 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
   </detail>
   </hr>
 
+<hr>
+  <details>
+  <summary>📈 My Github Stats..</summary>
+  <p align="center"> 
+    <figure><embed src="https://wakatime.com/share/@mrpawan_gupta/a11a97b0-2846-4eee-8373-93b375ef690c.svg"></embed></figure>
+  </p>
+  </detail>
+  </hr>
+
 
 
 
