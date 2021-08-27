@@ -81,10 +81,14 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-
-📈 My Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
+<hr>
+  <details>
+  <summary>📈 My Github Stats..</summary>
+  <p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
+  </p>
+  </detail>
+  </hr>
 
 
 
