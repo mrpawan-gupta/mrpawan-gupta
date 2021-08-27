@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <br />
 
-Hii, I'm [Pawan Gupta](https://abhishknads.me/)📫, a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hii, I'm [Pawan Gupta](https://abhishknads.me/), a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's.
+I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
 
   <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/mrpawan-gupta/blob/main/code.gif" width="500" height="320" />
@@ -76,9 +76,9 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
 
 
 
