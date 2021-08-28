@@ -83,6 +83,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
     <figure><embed src="https://wakatime.com/share/@mrpawan_gupta/a11a97b0-2846-4eee-8373-93b375ef690c.svg"></embed></figure>
   </p>
   </detail>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta" alt="mrpawan-gupta" /></p>
  </hr>
 
 
