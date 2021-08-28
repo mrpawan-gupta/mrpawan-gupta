@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{587e9148-cc67-484c-855f-6066642dd50a}}
+          WAKATIME_API_KEY: ${{README.587e9148-cc67-484c-855f-6066642dd50a}}
           
           BRANCH: "master"
 
