@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 
 <br />
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 Hii, I'm [Pawan Gupta](https://abhishknads.me/), a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
