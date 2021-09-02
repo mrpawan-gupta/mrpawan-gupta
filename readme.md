@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Hii, I'm [Pawan Gupta](https://abhishknads.me/), a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hii, I'm [Pawan Gupta](), a passionate self-taught software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
 
 
   
-- 💼 Any freelance work? do reach, [email](guptapawanro2017@gmail.com) :)
+- 💼 Any freelance work? do reach, [email](mailto:guptapawanro2017@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 
@@ -64,8 +64,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 <code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 
- 
- <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/mrpawan-gupta/blob/main/code.gif" width=500" height="250" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 📊 **This week I spent my time on: ✨✨**
