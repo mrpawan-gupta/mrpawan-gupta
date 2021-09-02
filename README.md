@@ -45,8 +45,8 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 
 
   
-- 💼 any freelance work? do reach, [email](guptapawanro2017@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach, [email](guptapawanro2017@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help;
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**Languages and Tools:** 
