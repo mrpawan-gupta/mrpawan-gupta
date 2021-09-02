@@ -43,7 +43,7 @@ Hii, I'm [Pawan Gupta](https://abhishknads.me/), a passionate self-taught softwa
 I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
 
- 
+
   
 - 💼 any freelance work? do reach, [email](guptapawanro2017@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -63,6 +63,8 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
+
+ <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/mrpawan-gupta/blob/main/code.gif" width="500" height="320" />
 
 
 📊 **This week I spent my time on: ✨✨**
