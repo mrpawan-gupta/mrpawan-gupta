@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello Visitor's <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello Visitor's!! ⚡⚡
 <a href="https://www.instagram.com/notyourpawan/">
   <img align="left" alt="Pawan's Discord" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
