@@ -69,7 +69,13 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 
 📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
-
+```text
+C++        10 hrs 9 mins   █████████████████████░░░░   83.44 % 
+Markdown   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+HTML       25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Other      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Text       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+```
 <!--END_SECTION:waka-->
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw"></a></blockquote> 
