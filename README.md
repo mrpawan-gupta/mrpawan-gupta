@@ -49,7 +49,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 - 💬 ask me about anything, i am happy to help;
 
 
-**Languages and Tools:**  
+**Languages and Tools:** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
