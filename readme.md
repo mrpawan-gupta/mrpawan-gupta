@@ -91,7 +91,7 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
   <details>
   <summary>📈 Languages Used by me :-</summary>
   <p align="center"> 
-    <figure><embed src="https://wakatime.com/share/@mrpawan_gupta/a11a97b0-2846-4eee-8373-93b375ef690c.svg"></embed></figure>
+    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrpawan_gupta/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
   </p>
   </detail>
  </hr>
