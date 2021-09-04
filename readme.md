@@ -81,7 +81,7 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
 **Something I Truly Believe:**
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw"></a></blockquote> 
 
-div>
+<div>
 <hr>
 <details>
  <summary>📈 My Github Stats...</summary>
@@ -91,7 +91,6 @@ div>
  </details>
  </hr>
  </div>
- <br>
  
  <div>
  <hr>
