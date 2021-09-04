@@ -82,3 +82,12 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw"></a></blockquote> 
 
 
+<details>
+  <summary>📈 Languages Used by me :- </summary>
+  <p align="center"> 
+    <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrpawan_gupta/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
+  </p>
+  </detail>
+ </hr>
+
+
