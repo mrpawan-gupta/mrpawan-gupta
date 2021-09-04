@@ -81,6 +81,15 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
 **Something I Truly Believe:**
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw"></a></blockquote> 
 
+<hr>
+<details>
+ <summary>📈 My Github Stats...</summary>
+  📈 My Github Stats...
+  <p align="center"> 
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta" alt="mrpawan-gupta" />
+    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
+  </p>
+  </details>
 
 <details>
   <summary>📈 Languages Used by me :- </summary>
