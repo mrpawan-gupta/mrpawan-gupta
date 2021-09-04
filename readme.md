@@ -64,7 +64,7 @@ I am also an open-source enthusiast and a COmpetitve Coder. I learned a lot from
 <code><img height="20" src="https://img.icons8.com/color/48/000000/bootstrap.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></code>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/mrpawan-gupta/blob/main/code.gif" width="500" height="320" />
 
 
 📊 **This week I spent my time on: ✨✨**
