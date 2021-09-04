@@ -83,16 +83,16 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
 
 <hr>
   <details>
-  <summary>📈 **My Github Stats...**</summary>
+  <summary>📈 My Github Stats...</summary>
   <p align="center"> 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta" alt="mrpawan-gupta" />
+    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
   </p>
   </detail>
   <details>
   
-  <summary>📈 **Languages Used by me :-** </summary>
+  <summary>📈 Languages Used by me :- </summary>
   <p align="center"> 
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta" alt="mrpawan-gupta" />
     <figure><a href="https://wakatime.com"><img src="https://wakatime.com/share/@mrpawan_gupta/95b70aaf-43b5-47ef-8dd3-c7a3c9ce0a7b.png" /></a></figure>
   </p>
   </detail>
