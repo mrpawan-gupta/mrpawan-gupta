@@ -86,10 +86,9 @@ Java       13 mins         ▒░░░░░░░░░░░░░░░░�
  <summary>📈 My Github Stats...</summary>
   📈 My Github Stats...
   <p align="center"> 
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta" alt="mrpawan-gupta" />
     <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
   </p>
-  </details>
+</details>
 
 <details>
   <summary>📈 Languages Used by me :- </summary>
