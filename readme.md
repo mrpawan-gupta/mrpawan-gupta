@@ -86,7 +86,7 @@ Python       8 mins          ▓░░░░░░░░░░░░░░░░
 <details>
  <summary>📈 My Github Stats...</summary>
   <p align="center"> 
-    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=gotham" alt="mrpawan-gupta" />
+    <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=dark" alt="mrpawan-gupta" />
   </p>
  </details>
  </hr>
