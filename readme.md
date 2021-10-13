@@ -79,8 +79,6 @@ Other   13 mins         █░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **Something I Truly Believe:**
-### 📱 Latest Tweets
-
 <!-- TWITTER:START -->
 
 <!-- TWITTER:END -->
