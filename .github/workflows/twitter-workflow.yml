@@ -1,1 +1,20 @@
+name: Latest Twitter Tweets
+on:
+  schedule:
+    # Runs once a day because using Free tier in Rss.app
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly.
 
+jobs:
+  update-readme-with-twitter:
+    name: Update this repo's README with latest tweets
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "TWITTER"
+          feed_list: "<<[[PLACE YOUR RSS FEED LINK HERE]]>>"
+          commit_message: "Latest tweets : Added"
+          committer_username: "notyourpawan"
+          committer_email: "guptapawanro2017@gmail.com"
