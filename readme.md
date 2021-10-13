@@ -79,9 +79,8 @@ Other   13 mins         █░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **Something I Truly Believe:**
-<!-- TWITTER:START -->
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Your Network is your net worth!<br>• <br>• <br>• <br>Choose Wisely!</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1420825738140209152?ref_src=twsrc%5Etfw"></a></blockquote> 
 
-<!-- TWITTER:END -->
 <div>
 <hr>
 <details>
