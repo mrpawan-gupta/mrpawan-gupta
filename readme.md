@@ -79,7 +79,7 @@ Java       2 mins          ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 **Something I Truly Believe:- **
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan) <a href="https://twitter.com/notyourpawan/status/1449000202673684486?ref_src=twsrc%5Etfw">October 15, 2021</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Open-Source ≠ Charity<br><br>It&#39;s the future!!👍<br>Spread the word and break the stereotype.</p>&mdash; Mr.Pawan Gupta❤✨ (@notyourpawan)</blockquote> 
 
 <div>
 <hr>
