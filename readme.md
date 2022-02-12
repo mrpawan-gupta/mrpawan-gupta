@@ -72,7 +72,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
 ```text
-C++     6 hrs 16 mins   █████████████████████████   99.88 % 
+C++     6 hrs 3 mins    █████████████████████████   99.88 % 
 ```
 <!--END_SECTION:waka-->
 
