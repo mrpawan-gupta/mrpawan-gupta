@@ -73,12 +73,12 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <!--START_SECTION:waka-->
 
 ```text
-C++           12 hrs 23 mins  ███████████████████▓░░░░░   78.31 %
-Java          1 hr 38 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Markdown      36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-CSS           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-HTML          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Text          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+C++           10 hrs 47 mins  ██████████████████▓░░░░░░   74.75 %
+Java          1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Markdown      48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+CSS           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+HTML          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Text          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
