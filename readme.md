@@ -25,7 +25,7 @@ https://github.com/sachuverma/DataStructures-Algorithms
 <a href="https://www.linkedin.com/in/mrpawan-gupta/">
   <img align="left" alt="Pawan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.codechef.com/users/mrpavan_gupta">
+<a href="https://www.codechef.com/users/guptapawan">
   <img align="left" alt="Pawan's CodeChef" width="22px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
 <a href="https://leetcode.com/mrpawan-gupta/">
