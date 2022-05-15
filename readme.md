@@ -28,7 +28,7 @@ https://github.com/sachuverma/DataStructures-Algorithms
 <a href="https://www.codechef.com/users/guptapawan">
   <img align="left" alt="Pawan's CodeChef" width="22px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
-<a href="https://leetcode.com/mrpawan-gupta/">
+<a href="">
   <img align="left" alt="Pawan's leetcode" width="22px" src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" /></a>
 <a href="https://codeforces.com/profile/Mr.pawan_gupta">
   <img align="left" alt="Pawan's CodeForces" width="22px" src="https://www.ime.usp.br/~arcjr/image/codeforces.png" />
