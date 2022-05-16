@@ -86,21 +86,17 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 
 <div>
 <hr>
-<details>
  <summary>📈 My Github Stats...</summary>
   <p align="center"> 
     <img align="Right" src="https://github-readme-stats.vercel.app/api?username=mrpawan-gupta&show_icons=true&theme=dark" alt="mrpawan-gupta" />
   </p>
- </details>
-  
-  <summary>📈 My Github Stats...</summary>
+  <summary>📈 My Github Streak...</summary>
   <p align="center"> 
     <img align="Right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta&theme=dark&layout=compact)" alt="mrpawan-gupta" />
   </p>
- </details>
+
  </hr>
  </div>
- 
  <div>
  <hr>
   <details>
