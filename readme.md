@@ -98,7 +98,7 @@ Other        12 mins         ▒░░░░░░░░░░░░░░░░
  <div>
 <hr>
  <details>
-  <summary>📈 My Github Streak...</summary>
+  <summary>📈 My Github Streak & contribution...</summary>
   <p align="center"> 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawan-gupta&theme=dark&layout=compact)" alt="mrpawan-gupta" />
   </p>
