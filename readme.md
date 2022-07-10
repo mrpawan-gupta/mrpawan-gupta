@@ -73,8 +73,9 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <!--START_SECTION:waka-->
 
 ```text
-C++     3 hrs 59 mins   █████████████████████████   99.81 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+C++           5 hrs 45 mins   ████████████████████████▓   99.00 %
+Java          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
