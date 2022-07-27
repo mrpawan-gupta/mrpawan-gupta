@@ -112,10 +112,3 @@ Other   0 secs          ░░░░░░░░░░░░░░░░░░�
   </p>
   </detail>
  </hr></div>
-
-svkjbakjevb
-skvnkjnb
- <!-- Git Learninh -->wakgke
- vjuvkgvke
- veku
- ghreiuo
