@@ -73,12 +73,12 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 31 mins   █████████████████████▓░░░   86.22 %
-Java         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Text         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Git          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python     1 hr 7 mins     ██████████████████▓░░░░░░   74.51 %
+Java       9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Text       6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+Markdown   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Git        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
