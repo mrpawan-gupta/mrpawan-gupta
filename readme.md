@@ -42,6 +42,8 @@ https://github.com/sachuverma/DataStructures-Algorithms
 
 Hii, I'm [Pawan Gupta](https://www.instagram.com/notyourpawan/), a passionate self-taught software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
+I am currently working on technologies and frameworks like Python, Django SQL, Java, Springboot, MongoDB, and GIT. I have also worked on CI-CD pipeline, Docker, Kubernetes, AWS - RDS, EC2, Lambda and GCP. I love to solve problems with my tech skills, designing systems and databases.
+
 I am also an open-source enthusiast and a Competitve Coder. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source And Network's 🌱🌱.
 
 
