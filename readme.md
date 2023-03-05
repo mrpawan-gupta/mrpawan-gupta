@@ -75,7 +75,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <!--START_SECTION:waka-->
 
 ```text
-Other        6 mins          ███████████▒░░░░░░░░░░░░░   44.84 %
+Other        6 mins          ███████████▓░░░░░░░░░░░░░   46.96 %
 ```
 
 <!--END_SECTION:waka-->
