@@ -75,11 +75,11 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 <!--START_SECTION:waka-->
 
 ```text
-HTML         12 hrs 36 mins  ███████████████▒░░░░░░░░░   61.43 %
-Python       7 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   37.43 %
-YAML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+HTML         12 hrs 33 mins  ███████████████░░░░░░░░░░   59.49 %
+Python       7 hrs 27 mins   █████████░░░░░░░░░░░░░░░░   35.34 %
+JavaScript   40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
