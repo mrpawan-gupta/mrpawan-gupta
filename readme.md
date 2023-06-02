@@ -74,7 +74,7 @@ I am also an open-source enthusiast and a Competitve Coder. I learned a lot from
 📊 **This week I spent my time on: ✨✨**
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python   4 hrs 57 mins   ███████████████████████░░   91.49 %
 HTML     25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
