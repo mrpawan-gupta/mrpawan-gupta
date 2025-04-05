@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, I'm Pawan Gupta, a passionate self-taught software engineer from India. <br>My passion for software lies with dreaming up ideas and making them come true with <br>elegant interfaces. I take great care in the experience, architecture, and <br>code quality of the things I build.<br><br>I love to solve problems with my tech skills, designing systems, databases and<br>creating cloud solutions based on AWS/GCP made out of multiple technologis like django,<br>nodejs, springboot, golang, chi, etc.<br><br>I am also an open-source enthusiast and a Competitve Coder. <br>
+Hii, I'm Pawan Gupta, a passionate self-taught software engineer from India. <br>My passion for software lies with dreaming up ideas and making them come true with <br>elegant interfaces. I take great care in the experience, architecture, and <br>code quality of the things I build.<br><br>I love to solve problems with my tech skills, designing systems, databases and<br>creating cloud solutions based on AWS/GCP made out of multiple technologis like django,<br>NodeJs, FastAPI, Flask, Golang, Spingboot <br><br>I am also an open-source enthusiast and a Competitve Coder. <br>
 
 
 ## 🌐 Socials:
